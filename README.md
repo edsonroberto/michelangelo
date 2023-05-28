@@ -6,4 +6,6 @@ Projeto de pizzaria
 
 #Salvando modificações no Git
 
-# Salvando alteração no git
+# Salvando alteração no
+
+* comando git push
